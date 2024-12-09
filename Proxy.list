@@ -45,6 +45,15 @@ DOMAIN-SUFFIX,kuajing.uk
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,xiaoxintv.cc
 
+DOMAIN-SUFFIX,royals.ms
+DOMAIN-SUFFIX,clmclm.com
+DOMAIN-SUFFIX,66img.cc
+DOMAIN-SUFFIX,aboluowang.com
+DOMAIN-SUFFIX,dongtaiwang.com
+DOMAIN-SUFFIX,gtop100.com
+DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,clmclm.com
+
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
